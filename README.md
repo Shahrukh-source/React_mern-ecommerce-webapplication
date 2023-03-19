@@ -71,3 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # mern-ecommerce-webapplication
 # mern-ecommerce-webapplication
 # mern-ecommerce-web-application-eshopper
+# mern-ecommerce-webapplication-eshopper
+# mern-ecommerce-webapplication-eshopper
